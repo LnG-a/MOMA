@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964867898495",
+    "project_id": "moma-92ad5",
+    "storage_bucket": "moma-92ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964867898495:android:f18b1b4962e5fa9d2b134a",
+        "android_client_info": {
+          "package_name": "com.example.moma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964867898495-fj0oi4semp60v83ha9fjrb692qm9dkit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN7ib7N0CccetzBp5OGVisqurHGcAX3q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964867898495-fj0oi4semp60v83ha9fjrb692qm9dkit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
